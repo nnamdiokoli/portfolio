@@ -1,22 +1,23 @@
 ---
-title: "Technical-skills"
+title: Technical Skills
 author: "Nnamdi Okoli"
+date: ""
 output: html_document
 weight: 1
-slug: technical-skills
+slug: "technical-skills"
 tags:
-  - Data Analytics
-  - Data Visualization
-  - GitHub
-  - R
-  - R Programming
-  - RStudio
-  - Tableau
-  - Skills
-  - Technical Skills
+- Data Analytics
+- Data Visualization
+- GitHub
+- R
+- R Programming
+- RStudio
+- Tableau
+- Skills
+- Technical Skills
 ---
 
----
+
 I possess a range of data analyst technical skills that has enabled me to effectively collect, analyze, and interpret data to extract meaningful insights. These skills encompass my proficiency in data manipulation and cleansing techniques using tools like SQL, R, and Python. Additionally, I excel in data visualization, employing tools such as Tableau or Power BI to create compelling visual representations of complex data sets. I have also demonstrated a strong understanding of statistical analysis methods and I am skilled in using statistical software like R or Excel for data modeling and hypothesis testing, With my expertise in programming languages, database management, and statistical analysis, data analysts I am equipped to handle diverse data sets and uncover valuable information to support data-driven decision-making processes.
 
 **Google Data Analytics Professional Certificate:** In order to strengthen my skills as a data analyst, I have completed the 8-course Google Data Analytics Certificate offered by Coursera--  <a href="https://coursera.org/share/a3a5eb388552f49346522d5c88844c4b" target="_blank">here</a>.  
@@ -24,7 +25,6 @@ I possess a range of data analyst technical skills that has enabled me to effect
 **Power BI** I have also completed Prepare, Clean, Transform, and Load Data using Power BI certificate  <a href="https://coursera.org/share/7409fe1b5fba78b48b589f6f5a6d5c57" target="_blank">here</a>.
 
 Acquiring and applying new technical skills has always been a significant focus throughout the course of my career. These skills have played a crucial role in elevating my work both analytically and operationally. In fact, I have taken the initiative to build my own website using various tools and platforms. By leveraging my knowledge I was able to construct a website that showcases my work and achievements. This project allowed me to demonstrate my proficiency in web development and highlight my ability to quickly learn and utilize cutting-edge technologies. If you're interested, I invite you to explore my website repository <a href="https://github.com/nnamdiokoli/portfolio" target="_blank">here</a>..
-
 
 ---
 
