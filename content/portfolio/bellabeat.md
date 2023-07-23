@@ -9,7 +9,7 @@ cover:
   caption: 
   relative: true
 showtoc: false
-draft: false
+draft: true
 tags: 
 ---
 

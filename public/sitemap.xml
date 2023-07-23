@@ -2,22 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/skills/technical-skills/</loc>
+  </url><url>
+    <loc>/skills/transferable-skills/</loc>
+  </url><url>
+    <loc>/portfolio/cyclistic-bike/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/portfolio/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/about/</loc>
   </url><url>
-    <loc>/portfolio/how-to-master-streamlit-for-data-science/</loc>
+    <loc>/tags/adaptability-and-learning-agility/</loc>
+  </url><url>
+    <loc>/tags/attention-to-detail/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>/tags/communication-and-presentation/</loc>
   </url><url>
-    <loc>/portfolio/</loc>
+    <loc>/tags/data-analytics/</loc>
+  </url><url>
+    <loc>/tags/data-visualization/</loc>
+  </url><url>
+    <loc>/tags/github/</loc>
+  </url><url>
+    <loc>/tags/organizational-skills/</loc>
+  </url><url>
+    <loc>/tags/project-management/</loc>
+  </url><url>
+    <loc>/tags/r/</loc>
+  </url><url>
+    <loc>/tags/r-programming/</loc>
+  </url><url>
+    <loc>/tags/research-and-problem-solving/</loc>
+  </url><url>
+    <loc>/tags/rstudio/</loc>
   </url><url>
     <loc>/search/</loc>
   </url><url>
+    <loc>/tags/skills/</loc>
+  </url><url>
     <loc>/skills/</loc>
   </url><url>
+    <loc>/tags/tableau/</loc>
+  </url><url>
     <loc>/tags/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/tags/technical-skills/</loc>
   </url>
 </urlset>

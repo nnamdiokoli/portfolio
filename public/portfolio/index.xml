@@ -5,14 +5,15 @@
     <link>/portfolio/</link>
     <description>Recent content in Portfolios on Nnamdi Okoli</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bella</title>
-      <link>/portfolio/how-to-master-streamlit-for-data-science/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Cyclistic Bike-Share Case Study</title>
+      <link>/portfolio/cyclistic-bike/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/how-to-master-streamlit-for-data-science/</guid>
-      <description>Preview The essential Streamlit for all your data science needs To build a web app you’d typically use such Python web frameworks as Django and Flask. But the steep learning curve and the big time investment for implementing these apps present a major hurdle.</description>
+      <guid>/portfolio/cyclistic-bike/</guid>
+      <description>Table of ContentsScenarioIn this case, I am assuming the role of a junior data analyst working in the marketing and analytics team at Cyclistic, a bike-share company in Chicago with two types of customers. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Customers who buy single-ride or full-day passes are known as casual riders, while the customers who purchase annual memberships are known as members.</description>
     </item>
     
   </channel>

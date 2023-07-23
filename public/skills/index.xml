@@ -6,5 +6,26 @@
     <description>Recent content in Skills on Nnamdi Okoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical Skills</title>
+      <link>/skills/technical-skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/skills/technical-skills/</guid>
+      <description>I possess a range of data analyst technical skills that has enabled me to effectively collect, analyze, and interpret data to extract meaningful insights. These skills encompass my proficiency in data manipulation and cleansing techniques using tools like SQL, R, and Python. Additionally, I excel in data visualization, employing tools such as Tableau or Power BI to create compelling visual representations of complex data sets. I have also demonstrated a strong understanding of statistical analysis methods and I am skilled in using statistical software like R or Excel for data modeling and hypothesis testing, With my expertise in programming languages, database management, and statistical analysis, data analysts I am equipped to handle diverse data sets and uncover valuable information to support data-driven decision-making processes.</description>
+    </item>
+    
+    <item>
+      <title>Transferable skills</title>
+      <link>/skills/transferable-skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/skills/transferable-skills/</guid>
+      <description>Transferable skills
+Given my extensive background and diverse experience, I possess a range of transferable skills that can be valuable in various professional settings. Here are some key transferable skills I have developed throughout my career:
+Data Analysis
+My seven years of experience as a research data analyst and graduate research data analyst in a biotechnology research center, combined with my ongoing PhD in data science, have equipped me with advanced skills in data analysis.</description>
+    </item>
+    
   </channel>
 </rss>
